@@ -1,5 +1,20 @@
 # Useful information when arriving to Ireland from Ukraine
 
+## Contents
+- [Police and emergency services](#police-and-emergency-services)
+- [Ukraine Embassy Ireland](#ukraine-embassy-ireland)
+- [News websites](#news-websites)
+- [TV Stations](#tv-stations)
+- [Classifieds Buy and Sell websites](#classifieds-buy-and-sell-websites)
+- [Long term house rentals](#long-term-house-rentals)
+- [Shopping centres](#shopping-centres)
+- [Mobile Phone Providers](#mobile-phone-providers)
+- [Food Shopping](#food-shopping)
+- [Affordable Clothing Stores](#affordable-clothing-stores)
+- [Taxi Services](#taxi-services)
+- [Bus and Rail](#bus-and-rail)
+- [Google map with points of interest in the Dublin and surrounding areas](#google-map-with-points-of-interest-in-the-dublin-and-surrounding-areas)
+
 ## Emergency Number: 999 or 112
 ___
 ## Police and emergency services
@@ -27,7 +42,7 @@ ___
 - Virgin Media Three
 
 ___
-## Classifieds / Buy and Sell websites
+## Classifieds Buy and Sell websites
 - [Adverts.ie](https://www.adverts.ie/)
 - [Done Deal](https://donedeal.ie/)
 
