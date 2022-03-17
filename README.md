@@ -1,6 +1,10 @@
 # Useful information when arriving to Ireland from Ukraine
-
+A list of useful information for Ukrainians arriving in to Ireland.
+___
+## Emergency Number: 999 or 112
+___
 ## Contents
+- [Official Government Information for Ukrainians](#official-government-information-for-ukrainians)
 - [Police and emergency services](#police-and-emergency-services)
 - [Ukraine Embassy Ireland](#ukraine-embassy-ireland)
 - [News websites](#news-websites)
@@ -15,7 +19,10 @@
 - [Bus and Rail](#bus-and-rail)
 - [Google map with points of interest in the Dublin and surrounding areas](#google-map-with-points-of-interest-in-the-dublin-and-surrounding-areas)
 
-## Emergency Number: 999 or 112
+___
+## Official Government Information for Ukrainians
+- [Official Government Information](https://www.gov.ie/en/publication/abf3e-social-welfare-supports-for-ukrainian-citizens-arriving-in-ireland-under-the-temporary-protection-directive/)
+
 ___
 ## Police and emergency services
 There is only one police service in Ireland and they are called "An Garda Síochána" ("the Guardian of the Peace") or commonly referred to as "The Guards". 
